@@ -5,3 +5,14 @@
 
  Second Scope
  Writing aid for Writers, ScriptWriters and lesson Planners.
+
+
+  this in an artificial intelligent powered book.
+  it as a volt of information on history like shakespare, it has every written 
+  old and new literature.
+  
+  it acts as a review for writers work.
+
+  it notes all speech by writer.
+  
+  
